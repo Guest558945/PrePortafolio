@@ -178,7 +178,7 @@ body {
 }
 
 .img-box img {
-    width: 100%;
+    width: 50%;
     display: block;
 }
 
@@ -188,6 +188,7 @@ body {
     flex-direction: column;
     gap: 20px;
     align-items: center;
+
 }
 
 /* --- SECCIÓN 5: CONTACTO --- */
